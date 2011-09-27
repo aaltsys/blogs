@@ -2,15 +2,16 @@
 
 ### One time steps (per machine)
 
-1. Install RVM (see internal documentation)
+1. Install RVM (see [internal documentation](http://officeserver.aaltsys.net/wiki/pages/27G2Q4r/RVM_Setup.html))
 2. Clone the AAltSys Blog repository
-3. Run rake setup
+3. Run `bundle install`
+3. Run `rake setup`
 
 ### Regular steps
 
 1. Add posts (See [Octopress.org](http://octopress.org/docs))
-2. Add  author: <Name> to the YAML frontmatter on your post
-3. Deploy using rake gen_deploy
+2. Add  author: <Name> to the YAML front matter on your post
+3. Deploy using `rake gen_deploy`
 
 
 ## What is Octopress?
