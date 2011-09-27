@@ -9,7 +9,8 @@
 ### Regular steps
 
 1. Add posts (See [Octopress.org](http://octopress.org/docs))
-2. Deploy using rake gen_deploy
+2. Add  author: <Name> to the YAML frontmatter on your post
+3. Deploy using rake gen_deploy
 
 
 ## What is Octopress?
