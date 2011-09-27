@@ -1,3 +1,17 @@
+## Using the AAltSys Blog
+
+### One time steps (per machine)
+
+1. Install RVM (see internal documentation)
+2. Clone the AAltSys Blog repository
+3. Run rake setup
+
+### Regular steps
+
+1. Add posts (See [Octopress.org](http://octopress.org/docs))
+2. Deploy using rake gen_deploy
+
+
 ## What is Octopress?
 
 Octopress is [Jekyll](https://github.com/mojombo/jekyll) blogging at its finest.
