@@ -390,7 +390,7 @@ task :setup do
   cd "#{deploy_dir}" do
     system "git init"
     system "git remote add origin #{repo_url}"
-    system "git pull origin #{branch}"
+    system "git pull origin"
     system "git checkout #{branch}"
     rakefile = IO.read(__FILE__)
     rakefile.sub!(/deploy_branch(\s*)=(\s*)(["'])[\w-]*["']/, "deploy_branch\\1=\\2\\3#{branch}\\3")
