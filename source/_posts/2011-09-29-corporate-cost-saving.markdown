@@ -11,6 +11,7 @@ Today I am reposting a comment from Google’s Docs blog. The literary flow of t
 > @Everyone:
 > 
 > Any experiences using Gladinet with Google Docs? Good, bad, so-so? Has it even been out long enough for people to find any little bugs? I don’t want to install it on my home PC, since I wouldn’t know how to fix any possible resulting problems. But just recently I’ve started to not caring about what it might do to my work PC, if our system allows me to download it.
+> 
 > <!-- more -->
 > At my work they’ve decreased our limits on data storage and e-mail account capacity to save $ on server space. (Nevermind the fact that this data and e-mail is primarily for work). I hear that a lot of companies are doing this latetly. A friend of mine at smaller company says her workplace is even looking into cloud-storage “corporate” options.
 > 
