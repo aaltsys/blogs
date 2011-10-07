@@ -1,0 +1,214 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Switching to Google Apps - AAltSys</title>
+  <meta name="author" content="AAltSys">
+
+  
+  <meta name="description" content="Using Free, Open-Source Solutions (FOSS) is a basic value for AAltSys. Our AAltSys Server provides an advanced office server design using only FOSS...">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://aaltsys.github.com/blogs/blog/2010/03/21/switching-to-google-apps/">
+  <link href="/blogs/favicon.png" rel="icon">
+  <link href="/blogs/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/blogs/javascripts/modernizr-2.0.js"></script>
+  <script src="/blogs/javascripts/ender.js"></script>
+  <script src="/blogs/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/blogs/atom.xml" rel="alternate" title="AAltSys" type="application/atom+xml">
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/blogs/">AAltSys</a></h1>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/blogs/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:aaltsys.github.com/blogs" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+<ul class="main-navigation">
+  <li><a href="/blogs/">Blog</a></li>
+  <li><a href="/blogs/blog/archives">Archives</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">Switching to Google Apps</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+  
+
+
+
+<time datetime="2010-03-21T13:16:00-05:00" pubdate  data-updated="true" >Mar 21<span>st</span>, 2010</time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>Using Free, Open-Source Solutions (FOSS) is a basic value for AAltSys. Our AAltSys Server provides an advanced office server design using only FOSS, for example. However, converting an office to FOSS requires changing user applications as well. There are three areas of concern here. The first concern, personal productivity, is handled quite well with Sun/Oracle’s OpenOffice suite. The next issue is collaboration, where Microsoft dominates the market with Exchange and Active Directory. The final frontier for companies is accounting, but I will save that topic for a future post. Today’s topic is collaboration software.</p>
+
+<p>Originally corporate email was restricted to within an organization’s walls, because that was as far as the mainframe reached. Today email, calendars and documents are commonly shared between organizations and across national boundaries. This sort of collaboration cannot work using proprietary software designs and local implementations. Instead, email, calendars, and documents  must be encoded in formats readable by all software. The recognized standards here are IMAP for email, ICAL for calendars, and OpenDoc for documents. Microsoft’s office products fail to provide compatibility with any of these standards.</p>
+
+<p>At AAltSys, we have experimented with numerous FOSS products to provide collaborative applications on our servers. We used Mozilla’s Thunderbird, Evolution email, Yahoo’s Zimbra, and eGroupWare, along with many lesser lights. While all these products proved unsatisfactory, our trials allowed us to understand the requirements for real collaboration. These are:</p>
+
+<p>Cross-system. Products must work with any popular operating system, including Windows, Macintosh OSX, and various Linux releases.
+Cross-platform. Products must integrate with desktops, WiFi laptops, netbooks, mobile phones, and thin clients.
+Standards-based. Data must be portable between systems using open protocols and standards.
+Web accessible. All systems must provide a functional web interface which can be accessed over public networks.
+Secure. Access to collaborative systems must be fully secure and encrypted.
+Available. Systems must have essentially 100% up-time.
+Durable. Data loss is not an option for collaborative information.
+These demands are a tall order, and virtually every system we tried failed on numerous points. (Microsoft Exchange fails on almost every one of these demands, and this a premier product from the biggest vendor in the business!) So are we asking too much here? No, and here is why. A small business or office cannot expect to provide 100% availability of web-served data, as this would require outsourced hosting. Any software you can install on your own computers cannot possibly meet the requirements we list. Instead, look elsewhere for a solution.</p>
+
+<p>We have switched to Google Apps to provide our collaborative software. While this is not a FOSS solution, all documents are stored in standards such as IMAP, ICAL, and OpenDoc. Using Google Gears, data can be backed up on local systems and accesssed off-line. Web interfaces work across every system and platform. Google communicates with clients using https security. And while GMail and associated data can be moved to other platforms, now the reverse is also true. Google provides simple tools to import data from proprietary platforms as well, <a href="http://googleenterprise.blogspot.com/2010/03/now-its-easy-switch-to-google-apps-from.html">as is now described on their site</a>.</p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Gerald Lovel</span></span>
+
+      
+
+
+
+
+
+  
+
+
+
+<time datetime="2010-03-21T13:16:00-05:00" pubdate  data-updated="true" >Mar 21<span>st</span>, 2010</time>
+      
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://aaltsys.github.com/blogs/blog/2010/03/21/switching-to-google-apps/" data-via="" data-counturl="http://aaltsys.github.com/blogs/blog/2010/03/21/switching-to-google-apps/" >Tweet</a>
+  
+  
+  <div class="g-plusone" data-size="medium"></div>
+  
+</div>
+
+    
+  </footer>
+</article>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blogs/blog/2010/05/13/guerilla-marketing/">Guerilla Marketing</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blogs/blog/2010/03/21/switching-to-google-apps/">Switching to Google Apps</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blogs/blog/2010/03/19/a-faster-internet/">Needed: A Faster Internet</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blogs/blog/2010/03/12/corporate-cost-saving/">Corporate Cost Saving</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blogs/blog/2010/02/04/graphical-user-interface/">In Your Face, Graphical User Interface</a>
+      </li>
+    
+  </ul>
+</section>
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2011 - AAltSys -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+
+  
+
+  
+  <script type="text/javascript">
+    (function() {
+      var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
+      script.src = 'https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);
+    })();
+  </script>
+
+
+  
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+</body>
+</html>

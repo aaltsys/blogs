@@ -4,7 +4,7 @@
   <title>AAltSys</title>
   <link href="http://aaltsys.github.com/blogs/atom.xml" rel="self"/>
   <link href="http://aaltsys.github.com/blogs/"/>
-  <updated>2011-09-29T15:43:11-05:00</updated>
+  <updated>2011-10-07T14:02:27-05:00</updated>
   <id>http://aaltsys.github.com/blogs/</id>
   <author>
     <name>AAltSys</name>
@@ -13,10 +13,62 @@
 
   
   <entry>
+    <title>Guerilla Marketing</title>
+    <link href="http://aaltsys.github.com/blogs/blog/2010/05/13/guerilla-marketing/"/>
+    <updated>2010-05-13T13:17:00-05:00</updated>
+    <id>http://aaltsys.github.com/blogs/blog/2010/05/13/guerilla-marketing</id>
+    <content type="html">&lt;p&gt;One of my favorite guerrilla marketing ideas is affinity search indexing.  In this concept, an item is posted to a forum such as YouTube, where the index words of the item match popular, but possibly unrelated, search terms. There are various ways to use this idea, and a new one came to my attention.  A fired marketing executive took out Google AdWords ads offering his services, and he indexed his ad search terms by the names of the six ad executives he most admired. You might as well not try this job search method today, though.  In &lt;em&gt;Management of the Absurd&lt;/em&gt;, Richard Farson says: “Once you find a management technique that works, give it up.” His point is that effectiveness is directly proportional to novelty. Once a management technique is converted into a practice and institutionalized, you can bet it will accomplish nothing. Popular management techniques which depend on rules for improving performance are doomed to fail.&lt;/p&gt;
+
+&lt;p&gt;Back to marketing. The successful marketer must innovate constantly, providing a stream of presentations that surprise the audience intellectually. This is how comedy works also, and comedians may make good marketers. Comic strip writers are masters of this intellectual engagement and novelty.  I have been working on a project to integrate marketing sponsorships with comic strip authorship, to take advantage of the originality inherent in this medium. I think this will work, because the supply of comic artists and writers is strictly limited. Unlike AdWords, not everybody can publish a comic strip. This should help keep the sponsored comic content concept fresh for a while, even on the Internet.&lt;/p&gt;
+
+&lt;p&gt;Now I have a question. This article mentions three things: affinity, novelty, and humor. Can you suggest ways to combine these three elements into a point presentation which will sell an individual objective on the crowd-sourced Internet?&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Switching to Google Apps</title>
+    <link href="http://aaltsys.github.com/blogs/blog/2010/03/21/switching-to-google-apps/"/>
+    <updated>2010-03-21T13:16:00-05:00</updated>
+    <id>http://aaltsys.github.com/blogs/blog/2010/03/21/switching-to-google-apps</id>
+    <content type="html">&lt;p&gt;Using Free, Open-Source Solutions (FOSS) is a basic value for AAltSys. Our AAltSys Server provides an advanced office server design using only FOSS, for example. However, converting an office to FOSS requires changing user applications as well. There are three areas of concern here. The first concern, personal productivity, is handled quite well with Sun/Oracle’s OpenOffice suite. The next issue is collaboration, where Microsoft dominates the market with Exchange and Active Directory. The final frontier for companies is accounting, but I will save that topic for a future post. Today’s topic is collaboration software.&lt;/p&gt;
+
+&lt;p&gt;Originally corporate email was restricted to within an organization’s walls, because that was as far as the mainframe reached. Today email, calendars and documents are commonly shared between organizations and across national boundaries. This sort of collaboration cannot work using proprietary software designs and local implementations. Instead, email, calendars, and documents  must be encoded in formats readable by all software. The recognized standards here are IMAP for email, ICAL for calendars, and OpenDoc for documents. Microsoft’s office products fail to provide compatibility with any of these standards.&lt;/p&gt;
+
+&lt;p&gt;At AAltSys, we have experimented with numerous FOSS products to provide collaborative applications on our servers. We used Mozilla’s Thunderbird, Evolution email, Yahoo’s Zimbra, and eGroupWare, along with many lesser lights. While all these products proved unsatisfactory, our trials allowed us to understand the requirements for real collaboration. These are:&lt;/p&gt;
+
+&lt;p&gt;Cross-system. Products must work with any popular operating system, including Windows, Macintosh OSX, and various Linux releases.
+Cross-platform. Products must integrate with desktops, WiFi laptops, netbooks, mobile phones, and thin clients.
+Standards-based. Data must be portable between systems using open protocols and standards.
+Web accessible. All systems must provide a functional web interface which can be accessed over public networks.
+Secure. Access to collaborative systems must be fully secure and encrypted.
+Available. Systems must have essentially 100% up-time.
+Durable. Data loss is not an option for collaborative information.
+These demands are a tall order, and virtually every system we tried failed on numerous points. (Microsoft Exchange fails on almost every one of these demands, and this a premier product from the biggest vendor in the business!) So are we asking too much here? No, and here is why. A small business or office cannot expect to provide 100% availability of web-served data, as this would require outsourced hosting. Any software you can install on your own computers cannot possibly meet the requirements we list. Instead, look elsewhere for a solution.&lt;/p&gt;
+
+&lt;p&gt;We have switched to Google Apps to provide our collaborative software. While this is not a FOSS solution, all documents are stored in standards such as IMAP, ICAL, and OpenDoc. Using Google Gears, data can be backed up on local systems and accesssed off-line. Web interfaces work across every system and platform. Google communicates with clients using https security. And while GMail and associated data can be moved to other platforms, now the reverse is also true. Google provides simple tools to import data from proprietary platforms as well, &lt;a href=&quot;http://googleenterprise.blogspot.com/2010/03/now-its-easy-switch-to-google-apps-from.html&quot;&gt;as is now described on their site&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Needed: A Faster Internet</title>
+    <link href="http://aaltsys.github.com/blogs/blog/2010/03/19/a-faster-internet/"/>
+    <updated>2010-03-19T13:14:00-05:00</updated>
+    <id>http://aaltsys.github.com/blogs/blog/2010/03/19/a-faster-internet</id>
+    <content type="html">&lt;p&gt;Twenty years ago there was barely an Internet, and ten years ago most Internet connections used dial-up modems. Today, everyone expects to have high-speed broadband connection to the Internet. Or do they? In many developed countries users have broadband connection rates of 10 Mbit/sec, while U.S. users typically experience sustained  cable connection speeds of 1.5 Mbs and DSL speeds less than 374 Kbs. In other words, Internet access is well below average in the U.S.&lt;/p&gt;
+
+&lt;p&gt;To see why this is true, we have to go back a few years. In the decade of the 90s, each telecommunications company developed infrastructure to gain a competitive edge. This all changed with the Telecommunications Act of 2001, which authorized many of the anticompetitive practices we see today. Telcos stopped investing to gain customers, and consolidated instead. While AT&amp;amp;T was emerging from bankruptcy they bought my provider, Bell South, for example. Service guarantees disappeared, while contracts and terms could be changed at the whim of the telco, without notice to the customer. (A similar thing happened in banking, resulting in the mortgage and credit card fiascos today.)&lt;/p&gt;
+
+&lt;p&gt;Rural America is essentially without broadband Internet access today. A friend of mine, living a couple miles out of Lynchburg, VA, has Internet access through a cellular tether, not a land line. And large parts of our cities are without broadband access too: the industrial areas. Frankly, telecommunications infrastructure in the U.S. is embarrassing, and there is little excuse for it. Here is how things should be. Dalton, GA has fiber to the wall for every building in the city, with speeds of 15 Mbs, for the same price as I pay for one tenth the service.&lt;/p&gt;
+
+&lt;p&gt;Which brings us to today. While the telecommunications companies have not changed their broadband service offering in 10 years, technology has marched ahead. Google is preparing to test community-wide 1 Gb/s fiber for some cities. To promote this service for Memphis, TN, my daughter made the following video. Take a minute and watch it: [youtube=(http://www.youtube.com/watch?v=XCV9BQY7dic)].&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
     <title>Corporate Cost Saving</title>
-    <link href="http://aaltsys.github.com/blogs/blog/2011/09/29/corporate-cost-saving/"/>
-    <updated>2011-09-29T15:30:00-05:00</updated>
-    <id>http://aaltsys.github.com/blogs/blog/2011/09/29/corporate-cost-saving</id>
+    <link href="http://aaltsys.github.com/blogs/blog/2010/03/12/corporate-cost-saving/"/>
+    <updated>2010-03-12T15:30:00-06:00</updated>
+    <id>http://aaltsys.github.com/blogs/blog/2010/03/12/corporate-cost-saving</id>
     <content type="html">&lt;p&gt;Today I am reposting a comment from Google’s Docs blog. The literary flow of this composition is absolutely priceless, the way it starts out about Google’s features … but then it is about corporate IT … and finally, it wraps up with the therapeutic value of blogging. Wow.&lt;/p&gt;
 
 &lt;blockquote&gt;&lt;p&gt;@Everyone:&lt;/p&gt;
@@ -37,6 +89,212 @@ At my work they’ve decreased our limits on data storage and e-mail account cap
 &lt;p&gt;Anyway, I’m done, but thanks for listening. I promise not to rant again. Just send me the bill for this therapy session…&lt;/p&gt;
 
 &lt;p&gt; &amp;#8211; Beth&lt;/p&gt;&lt;/blockquote&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>In Your Face, Graphical User Interface</title>
+    <link href="http://aaltsys.github.com/blogs/blog/2010/02/04/graphical-user-interface/"/>
+    <updated>2010-02-04T13:11:00-06:00</updated>
+    <id>http://aaltsys.github.com/blogs/blog/2010/02/04/graphical-user-interface</id>
+    <content type="html">&lt;p&gt;1) How recognition works.&lt;/p&gt;
+
+&lt;p&gt;I really do leave the basement on occasion, despite what others say. Walking outside yesterday, I noticed a bird on the telephone wire and immediately thought, “mourning dove.” I recognized the bird from its characteristic silhouette, not its color or other features. The brain works by recognizing familiar characteristics: a silhouette, a movement, a color, a footstep, a sound. Camouflage works because it hides the unusual amongst the familiar. We are used to seeing leaf litter, and we are unfamiliar with the coils of the lurking python.&lt;/p&gt;
+
+&lt;p&gt;2) The graphical user interface.&lt;/p&gt;
+
+&lt;p&gt;The graphical user interface presents the user with a clutter of icons, ribbons, tool bars, and other detritus. Finding a familiar icon amongst all this is not too bad, but identifying an unfamiliar icon for a desired function within this collection of other unfamiliar objects is impossible. Most users struggle to familiarize themselves with the graphical elements which are common to all windows — the title bar, the scroll bars, resizing indicators, and so forth. The graphical stuff within the frame, that which changes from window to window, is a complete mystery to the average user.&lt;/p&gt;
+
+&lt;p&gt;3) How we learn software.&lt;/p&gt;
+
+&lt;p&gt;I demonstrated a Windows native upgrade for a character interface to some users. They responded with: “How are we supposed to learn all this new stuff?” I said, “How would you learn to use any Windows program? You look at the menu in a window, and see a consistent set of options under File, Edit, Query, and so forth. You note the accelerator keys which execute these functions outside of the menus. Use the menu options, or use the accelerator keys.” Of course, this is how one would learn the old character-based program, too. The problem here is learning. The biggest objection users have to functional, powerful applications is that they are “too difficult to learn.” For this reason, many line of business Windows programs are mere shadows of their character-based predecessors.&lt;/p&gt;
+
+&lt;p&gt;4) New interface paradigms.&lt;/p&gt;
+
+&lt;p&gt;Enter the mobile device. Apple Computer injected entirely new interface concepts into the computer world with the iPhone. Now users swipe, pinch-zoom, and use other gestures on their laptop touchpads or their cell phones. At the same time, the functionality of software has been downgraded again, while the interface has shrunk to 320 X 480 or so. Now we need an entire app to calculate the tip in a restaurant.&lt;/p&gt;
+
+&lt;p&gt;5) Where is software development headed?&lt;/p&gt;
+
+&lt;p&gt;Looking at the trends above, software is becoming smaller and more atomic. In the future, a software program will actually be a series of loosely associated applications, each dedicated to a single function., each designed to fit within the mobile device. The user interface will lose its confusing graphics, and head toward minimalism. The user will read instructions, or the device will speak the instructions. Users could thumb their responses, but more likely they will speak them. The interface will be linguistic, focusing on reading and speaking language. Users will understand the computer, for once, provided they understand the language.&lt;/p&gt;
+
+&lt;p&gt;This front-line of mobile applications will be fed from web servers running line of business applications, and managed by the priests of the server room. Real applications will move upstream to server farms and cloud computing, and the more generic the function, the bigger the cloud. Right now, my email, calendaring, and other productivity functions are hosted by Google. This blog is on WordPress somewhere. I moved my GnuCash accounting to a server near me. ‘Nuff said.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>The iPad Needs Open Software</title>
+    <link href="http://aaltsys.github.com/blogs/blog/2010/01/31/ipad-needs-open-software/"/>
+    <updated>2010-01-31T13:09:00-06:00</updated>
+    <id>http://aaltsys.github.com/blogs/blog/2010/01/31/ipad-needs-open-software</id>
+    <content type="html">&lt;p&gt;There are writers who express my opinions better than I ever could my self. An example of this comes from Fraser Speirs, in the &lt;a href=&quot;http://speirs.org/blog/2010/1/29/future-shock.html&quot;&gt;following blog entry&lt;/a&gt;:&lt;/p&gt;
+
+&lt;p&gt;“Many will cling to … the idea that the computer-based part of [a job] is the “real work”.&lt;/p&gt;
+
+&lt;p&gt;It’s not. The Real Work is not formatting the margins, installing the printer driver, uploading the document, finishing the PowerPoint slides, running the software update or reinstalling the OS.&lt;/p&gt;
+
+&lt;p&gt;The Real Work is teaching the child, healing the patient, selling the house, logging the road defects, fixing the car at the roadside, capturing the table’s order, designing the house and organising the party.&lt;/p&gt;
+
+&lt;p&gt;Think of the millions of hours of human effort spent on preventing and recovering from the problems caused by completely open computer systems. Think of the lengths that people have gone to in order to acquire skills that are orthogonal to their core interests and their job, just so they can get their job done.”&lt;/p&gt;
+
+&lt;p&gt;Fraser is praising the vision of the Apple iPad, but his comments strike to the heart of technology. For the past twenty-five years, I have been saying that we are in the pre-model-T days of the computer. We do not yet have a computer which allows us to use technology without understanding it, in the way that we can use an automobile without knowing how it works.&lt;/p&gt;
+
+&lt;p&gt;Apple Computer has led the market in making the computer for the rest of us, but they are not the only contributor. The Xerox machines in Redmond force the rest of the industry to innovate, to add value exceeding the base cost of an OEM Windows Home license. The Free and Open Source Software (FOSS) movement demands that the ability to innovate should be essentially free for all who wish to contribute, not just those willing to pay extortionate developer license fees. There has been a movement to control the development of software in general, not just the computer operating system. A very few companies own a great deal of the technology of the computer, and they leverage their position to wrest software development control away from the individual developer or inventor.&lt;/p&gt;
+
+&lt;p&gt;But the highly technical nature of the computer should not obscure that fact that creativity is an essential element in software. Developing the software in the computer demands the same intellectual organization skills as writing a book. Publishers pay decent authors, they add value with copy editing, type setting, and marketing, and they promote the author’s work. Publishing is a competitive industry. Contrast publishing with the concept of the software app store. An application for the iPhone must be written specifically for that platform. The development environment is proprietary, and the approval process for the store is arbitrary. The programmer must use an Apple computer as the development platform. Apple contributes next to nothing in the development, and then they demand a hefty commission for allowing the app to be published.&lt;/p&gt;
+
+&lt;p&gt;What we need in the computer industry is a model which allows software to be consumed the way books are read. We need computers that do not depend on knowing the arcana of IP addresses and DNS services. Then we need to purchase software to teach, to sell, to order, to repair. Before paying for that software, we must know that it will perform its function for us. And we need to know that the person who sold us the software can fix its ills when we discover them. Which brings me to the point. Software which is not developed in the FOSS model, and delivered with both source code and free development environments, is a bad idea. Proprietary code cannot be repaired by the journeyman technician, and it cannot be used transparently by the person who lacks technical skills.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Efficiency Expertise</title>
+    <link href="http://aaltsys.github.com/blogs/blog/2010/01/12/efficiency-expertise/"/>
+    <updated>2010-01-12T12:56:00-06:00</updated>
+    <id>http://aaltsys.github.com/blogs/blog/2010/01/12/efficiency-expertise</id>
+    <content type="html">&lt;p&gt;I mentioned patient care efficiency issues to a doctor, and he pointed out how regulatory reform could play a huge part in fixing this problem. But then he went on to say that the hospital system had hired the best possible consultants — from the aeronautics industry, no less — to identify improvements in efficiency.&lt;/p&gt;
+
+&lt;p&gt;I was unable to reply, since I know about aeronautics. Back in WWII, my mother was hired as a bucker on the B17 line, which gave her the income necessary to move her brood of four out of the converted chicken coop they lived in during the depression. Boeing hired women as buckers, and paid them less than the male riveters, because women could crawl into tight spaces in the fuselage. In Marietta Georgia, Duke Wolff solved this problem for Lockheed by hiring dwarfs. Boeing engineers for the B17 designed a standard set of bucking bars to fit all riveting positions in the airframe. A worker who specialized in the tail sections re-manufactured his bars. Consequently, he outperformed the production flow, and gained a little free time. The foreman asked him to sweep the floor, since he wasn’t busy, but he locked his toolbox and went home for three days instead. The production line halted until he returned.&lt;/p&gt;
+
+&lt;p&gt;At the end of the war, my mother found a new husband with a military pension, and a disability to match. This move was smart and necessary, as the aircraft manufacturers kept the higher-cost men on the line while firing women, dwarfs, and the guy bucking in the tail assemblies. Efficiency was no longer important. Defense contractors were on cost-plus contracts, and the time pressure of a war was gone. Instead, aircraft manufacturing upscaled into aeronautics by concentrating on technology and the occasional bribery scandal. Okay, regular &lt;a href=&quot;http://en.wikipedia.org/wiki/Lockheed_bribery_scandals&quot;&gt;bribery scandals&lt;/a&gt;. And &lt;a href=&quot;http://en.wikipedia.org/wiki/Boeing#Unethical_conduct&quot;&gt;more controversies&lt;/a&gt;. So how efficient is the aeronautical industry today? Boeing’s &lt;a href=&quot;http://en.wikipedia.org/wiki/Boeing_787&quot;&gt;787 Dreamliner&lt;/a&gt; achieved first flight on December 15, 2009, more than two years behind schedule.&lt;/p&gt;
+
+&lt;p&gt;And my point? Technology cannot answer every problem. High-tech industry consultants are the wrong people to study personnel efficiency in a field such as health care. It is no surprise that health care is inefficient, when it looks to technology to solve personnel management problems.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Aggregating Technology News</title>
+    <link href="http://aaltsys.github.com/blogs/blog/2009/12/09/aggregating-technology-news/"/>
+    <updated>2009-12-09T12:52:00-06:00</updated>
+    <id>http://aaltsys.github.com/blogs/blog/2009/12/09/aggregating-technology-news</id>
+    <content type="html">&lt;p&gt;When I was studying Mathematics, in the early 70s, an instructor commented that far more Mathematics was published every year than any one person could read. While too much of a good thing is a waste, probably back then only a small portion of the published material was truly important to the progress of Mathematics.&lt;/p&gt;
+
+&lt;p&gt;Today technologists are faced with the same conundrum. During the past month, I have wasted a couple of hours each day reading technology news. (This partly explains my lack of blog posts in the interval.)  I am using aggregation sites to match articles to my interests, but I still see many articles which are not even worth a skim. What I really want is a program like Google Reader, but which analyzes how much time I spend on an article compared to the article’s length. Then the program should search for additional articles which I will actually read, as opposed to skimming or skipping. But here lies a fallacy. I wish to be informed about new technologies which are important (to me). Obviously, articles about what I have already read cannot deliver novel information about technology. So, I will continue to skim and skip through technology aggregations, looking for new and important information.&lt;/p&gt;
+
+&lt;p&gt;Meanwhile, topics of interest to AAltSys Technologies come up every day. Here is a sample of today’s interesting news.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.readwriteweb.com/archives/jack_dorsey_talks_square_at_leweb.php&quot;&gt;Jack Dorsey wants to extend the mobile phone for free&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://googleblog.blogspot.com/2009/12/join-this-group-google-groups-joins.html&quot;&gt;Google sees Google as in the social networking business&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://googleblog.blogspot.com/2009/12/faster-apps-for-faster-web-introducing.html&quot;&gt;Google makes the web experience better and faster&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://mediamemo.allthingsd.com/20091208/nows-the-time-finally-publishers-announce-their-hulu-for-magazines-next-up-building-it/&quot;&gt;Magazine publishers band together for survival&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Enjoy your reading.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>One Minute Escalator Ride</title>
+    <link href="http://aaltsys.github.com/blogs/blog/2009/11/11/one-minute-escalator-ride/"/>
+    <updated>2009-11-11T12:48:00-06:00</updated>
+    <id>http://aaltsys.github.com/blogs/blog/2009/11/11/one-minute-escalator-ride</id>
+    <content type="html">&lt;p&gt;Running a technology company involves a little more than just having aggrandizing fantasies about our own efforts, while spewing paranoid rants on how our established competitors behave.  Occasionally I have to focus on the job at hand, getting a company running.&lt;/p&gt;
+
+&lt;p&gt;As part of this effort, AAltSys staffers have been attending entrepreneurship workshops run by &lt;a href=&quot;http://www.launchmemphis.com/&quot;&gt;LaunchMemphis&lt;/a&gt;. A recent workshop was on creating an escalator pitch for our business idea, which we were required to package into a one-minute YouTube video. My 12-year-old daughter has posted numerous YouTube videos, and some were good, so it can’t be that hard, right? Here are some of the lessons learned from this exercise.&lt;/p&gt;
+
+&lt;p&gt;Identify an intended audience. Generally, pitch to prospects. If you can’t convince a prospect of your importance to him, you won’t convince a banker or an investor of your value.
+As with underwear, brevity adds interest to a presentation when the content is fresh and well-developed.
+Express your point simply, then elaborate it well.
+Substitute clarifying terms for jargon. Some of my recommended changes included: configuration =&gt; setup, technology =&gt; standards, network =&gt; connect.
+Work on the flow.
+Memorize the script, so it can be spouted extemporaneously.
+My best revelation from this workshop was, that I actually can explain why someone should buy an AAltSys Server. Typically, most of the cost for office computers goes to three things: software, setup, and support. An AAltSys Server pays for itself by minimizing these costs. Honestly, it shouldn’t take a minute to say that! But I took a minute anyway, in this YouTube video: [youtube=(http://www.youtube.com/watch?v=bnLuSSAc2QA)].&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Androids Come Serving Gifts</title>
+    <link href="http://aaltsys.github.com/blogs/blog/2009/11/10/androids-come-serving-gifts/"/>
+    <updated>2009-11-10T12:46:00-06:00</updated>
+    <id>http://aaltsys.github.com/blogs/blog/2009/11/10/androids-come-serving-gifts</id>
+    <content type="html">&lt;p&gt;The &lt;a href=&quot;http://code.google.com/android/#utm_campaign=en&amp;amp;utm_source=en-ha-na-us-bk&amp;amp;utm_medium=ha&amp;amp;utm_term=android&quot;&gt;Androids&lt;/a&gt; are coming; how will they serve us?&lt;/p&gt;
+
+&lt;p&gt;After thirty years of hearing my mother talk on the phone, I am not a phone phan. But when Apple Computer introduced the iPhone, I ran straight out to buy one … NOT!&lt;/p&gt;
+
+&lt;p&gt;I want a whole lot more from a hand-held device. I want it to deliver my mail, maintain my correspondence, synchronize my contacts, update my calendar, plan my shopping lists, track my personal and business finances …. In short, I want my hand-held assistant to do everything my server-connected desktop can, and then some. This is where the Android name makes sense. Google started with server farms, added distributed applications, and now offers robotic personal assistants. But these Androids will always be extensions of Google’s network infrastructure, not autonomous computers.&lt;/p&gt;
+
+&lt;p&gt;Google is extending a network into personal services, while Apple and Microsoft are connecting personal computers to form a network. Products from Microsoft and Apple are premised on improving personal productivity, while Google wants to influence hive behavior. Apple gives us &lt;a href=&quot;http://www.apple.com/itunes/&quot;&gt;a music store&lt;/a&gt; and &lt;a href=&quot;http://www.att.com/wireless/iphone/&quot;&gt;AT&amp;amp;T phone service&lt;/a&gt;. Microsoft gives us &lt;a href=&quot;http://www.microsoft.com/presspass/press/2009/oct09/10-15Sidekick.mspx&quot;&gt;Sidekick&lt;/a&gt; … oh, wait! That was a server-based service, wasn’t it? Well then, how about &lt;a href=&quot;http://www.microsoft.com/windowsmobile/en-us/meet/wm65-upgrade.mspx&quot;&gt;WinCE&lt;/a&gt;? Google brings us voice and text communication, collaboration technology, group productivity. Now my Android will keep you updated on how this serves us.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Marketing to the Customer</title>
+    <link href="http://aaltsys.github.com/blogs/blog/2009/10/02/marketing-to-the-customer/"/>
+    <updated>2009-10-02T12:43:00-05:00</updated>
+    <id>http://aaltsys.github.com/blogs/blog/2009/10/02/marketing-to-the-customer</id>
+    <content type="html">&lt;p&gt;In 1997, IBM was losing the battle to get computer manufacturers to preinstall  OS/2. While Win ‘95 was clearly inferior to OS/2, manufacturers offered Microsoft’s product instead of IBM’s. The reasons for this market rejection were 3-fold. First, Microsoft contracts required manufacturers to purchase a Windows copy for every machine they made. Second, Microsoft engaged in a FUD campaign suggesting that non-Microsoft solutions were risky. Third, OS/2 was an extra expense which few customers were willing to pay.&lt;/p&gt;
+
+&lt;p&gt;In the face of Microsoft’s wildly successful product distribution methods, IBM sent out teams of evangelists to convince consumers to choose OS/2. In other words, Microsoft targeted computer manufacturers as their real customers, while IBM targeted consumers. It did not help that IBM’s CEO was the former head of Nabisco, so of course he believed in direct consumer marketing.&lt;/p&gt;
+
+&lt;p&gt;Today Microsoft has a virtual monopoly on consumer operating system installs, with their only real commercial competition coming from Apple. Along the way, Microsoft has tuned its product to benefit their customers, the hardware manufacturers, rather than consumers. For example, Microsoft has refused to add effective security features to Windows XP. Microsoft did not improve OS performance for 5 years, until the introduction of service pack 3. Microsoft has certified computers as “Designed for Microsoft XP” when generic XP copies will not install on the systems due to proprietary circuitry. All these things work to get customers to buy new computers, when their old hardware is perfectly serviceable.&lt;/p&gt;
+
+&lt;p&gt;Wait, Wait! You mean my old hardware is still serviceable? Yes, it is. In fact, typically one can pick up a computer from the curb which will work just fine with Linux (Ubuntu or Mint are my favorites), even though recent Windows releases cannot run on it. And, Linux is free. FREE! This is Microsoft’s marketing challenge. Steve Ballmer expressed this problem in 2006: “The greatest competitive threat we face is our own ability to either embrace or compete with alternative business models.”&lt;/p&gt;
+
+&lt;p&gt;Interestingly, Microsoft’s latest marketing ploy is the “&lt;a href=&quot;http://www.youtube.com/watch?v=1cX4t5-YpHQ&quot;&gt;Windows 7 Launch Party&lt;/a&gt;.” Here, Microsoft goes virtually direct to the consumer to promote Windows, bypassing its relationship with the hardware vendors. In fact, Microsoft brags about the improved performance in Windows 7 which allows it to run on older computers. So in 2009, is Microsoft adopting IBM’s strategies from 1997?&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Is Open Source a Winning Business Strategy?</title>
+    <link href="http://aaltsys.github.com/blogs/blog/2009/09/23/open-source-business-strategy/"/>
+    <updated>2009-09-23T12:36:00-05:00</updated>
+    <id>http://aaltsys.github.com/blogs/blog/2009/09/23/open-source-business-strategy</id>
+    <content type="html">&lt;p&gt;Does open source make sense as a business strategy for product development? Here is how an engineer might look at this question. Products have a life cycle in four phases: introduction, growth, maturity, and obsolescence. Traditionally, the highest cost for a product should come in the introduction phase. Then efficiency of manufacture and marketing effectiveness kick in to reduce costs and increase profitability. Businesses try to avoid investing in mature products, so that the gap between sales and cost, that is, profit, can be maximized.&lt;/p&gt;
+
+&lt;p&gt;Proprietary technological products require continued investment to keep ahead of the competition. As products become more complex, the cost of support and development increase over time, reducing profit. Increasing costs force companies to increase prices, which is why MS-DOS sold for $35, while Windows 7 costs $350. By comparison, the iPhone costs much less today than when it was introduced, since it experiences high sales growth and reduced manufacturing costs. Apple will replace this product when a more profitable alternative has been developed, long before price and sales erosion leads to obsolescence.&lt;/p&gt;
+
+&lt;p&gt;While comparing Microsoft and Apple, thinking of them as competitors would be a mistake. Apple sells desirable physical products based on open-source core technologies, while Microsoft sells proprietary core technology. Microsoft is trapped into supporting its technology even as it becomes obsolescent, while Apple is not. Microsoft’s product costs are increasing over time. As a result, Microsoft averages about $600,000 in revenue per employee, while Apple tops $1,000,000 per employee. A closer comparison to Apple Computer might be Dell, who sells a comparable product line. Granted, Dell does not convey the cachet of desirability that Apple enjoys. But Dell’s bigger problem is in product cost. Dell pays Microsoft a fee for every computer they build, while Apple’s incremental operating system cost is zero.&lt;/p&gt;
+
+&lt;p&gt;So who validates this engineer’s view? Despite the recent financial melt down, there are some sharp cookies investing in Wall Street. An increasing stock price is the most telling predictor of future profitability, in the investor’s view. Now here are the five-year stock trends for Microsoft, Dell, and Apple Computer. In 2004, Dell, Microsoft, and Apple all sat at around $30 per share. In fall 2009 Apple is approaching $200, Microsoft is down to $25, and Dell … Dell is around $15. Could the claim that open source is a losing strategy be in error?&lt;/p&gt;
+
+&lt;p&gt;AAPL, MSFT, DELL 5-year trends&lt;/p&gt;
+
+&lt;p&gt;Maybe Microsoft and its consumer PC manufacturers are out of step in rejecting open source technology. Open source software development is funded by captains of IT such as IBM, Apple, HP, Sun, Oracle, and Intel. These companies make significant revenue selling into markets where reliability and performance matter, and open source software has proved its worth in these areas. By funding open source development, sponsoring companies pool their investments and reduce costs. While serving consumer products companies with a proprietary product, Microsoft cannot share its development costs with other firms.&lt;/p&gt;
+
+&lt;p&gt;Despite the noise they are making, Microsoft actually has an open source strategy. They are a member of the Open Source Initiative, and they use components derived from open source code. For example, their DNS server product has always been a fork of the Unix BIND component. Their Windows Server 2003 Compute Cluster Edition uses open source, as does their Kumo search technology, and Hyper-V, and …. well, as does essentially every new technology they introduce. Sounds like a winning strategy.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Marketing in Social Media</title>
+    <link href="http://aaltsys.github.com/blogs/blog/2009/09/22/marketing-in-social-media/"/>
+    <updated>2009-09-22T12:20:00-05:00</updated>
+    <id>http://aaltsys.github.com/blogs/blog/2009/09/22/marketing-in-social-media</id>
+    <content type="html">&lt;p&gt;The WorldWide Web used to be a great big brochure, with millions of static pages linked together.  Next there was web 2.0, where web sites were dynamic and responded to the user.  Now, we are talking about social media.  So how does social media differ from what went before, and how does this affect us?&lt;/p&gt;
+
+&lt;p&gt;First, some comments about marketing.  Marketing has difficulty getting a grip on the Internet and the worldwide web, although the purpose of marketing, to persuade an audience, is independent of the vehicle or medium used.  Marketing consists of the following steps:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Establish goals for desired results from a marketing campaign&lt;/li&gt;
+&lt;li&gt;Identify target audiences for your campaign&lt;/li&gt;
+&lt;li&gt;Produce a message to be communicated&lt;/li&gt;
+&lt;li&gt;Develop content which conveys your message to the audience&lt;/li&gt;
+&lt;li&gt;Measure the effectiveness of the campaign.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Only step 4, developing content to convey a message to an audience, relates to the media used in a marketing campaign.  So why should www, web 2.0, and social media be big issues for business marketing, when it is a small, albeit highly visible, part of the job?&lt;/p&gt;
+
+&lt;p&gt;Going back to 1954, Marshall McLuhan said that “the medium is the message.”  Social media differs from what went before by being participatory.  Twitter recipients engage with the medium to get and send messages.  Cell-phone users are even sprouting Panda-like extra digits to enhance their texting abilities.  The message is changed by the medium at the whim of the participants.  No wonder marketing is confused.&lt;/p&gt;
+
+&lt;p&gt;So, here are my top 10 ideas on using social media in marketing.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;More people are disconnected from social networks than are connected.  Of those who are connected, far more are passive viewers than are involved participants.  Social media only reaches participants, and those participants may not be your ultimate target market.&lt;/li&gt;
+&lt;li&gt;Analyze your audience’s rationale for using social media.  Understand their comfort zone.  Determine how you can offer a benefit or meet a need.&lt;/li&gt;
+&lt;li&gt;You have multiple audiences in social media.  Each medium (FaceBook, YouTube, Twitter, etc.) has a unique demographic.  Do not present every message or address every goal with every audience.&lt;/li&gt;
+&lt;li&gt;“The medium is the message.”  Tailor your content and presentation to the medium.  Use Flickr for community, LinkedIn for networking, FaceBook for identification, Twitter for affinity, YouTube for entertainment, etc.&lt;/li&gt;
+&lt;li&gt;Establish policies for using media.  Respect the privacy of participants.  Model appropriate behavior.  Avoid falling victim to bots and trolls.  Protect your communications from being hijacked into inappropriate channels.&lt;/li&gt;
+&lt;li&gt;You are not the only party to a communication:  a TV cannot be engaged, but a text message can be.  Be honest with your presentation.&lt;/li&gt;
+&lt;li&gt;One third-party endorsement is worth a thousand ad impressions.  Allow your audience to speak for you, and expect this to happen.  Target your message to referrers, and let them promote you.  Exploit the wisdom of the crowd, but avoid the noise.&lt;/li&gt;
+&lt;li&gt;Do not attempt to push your message at participants.  Avoid forcing the meme.  Engage your audience.  Provide incentives.&lt;/li&gt;
+&lt;li&gt;To communicate effectively, be entertaining, consistent, frequent, reliable.  Focus on your audience’s interests, not your own.&lt;/li&gt;
+&lt;li&gt;Use social media to engage in conversations, discover your audience’s concerns, and use this knowledge to convey your message in helpful ways.&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;p&gt;Thanks go to &lt;a href=&quot;http://www.launchmemphis.com/&quot;&gt;LaunchMemphis&lt;/a&gt;, &lt;a href=&quot;http://www.lunaweb.com/&quot;&gt;LunaWeb&lt;/a&gt;, and other hosts and sponsors of the Memphis SocialCamp.&lt;/p&gt;
 </content>
   </entry>
   
