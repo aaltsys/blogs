@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Corporate Cost Saving"
-date: 2011-09-29 15:30
+date: 2010-03-12 15:30
 comments: true
 categories: 
 author: Gerald Lovel
