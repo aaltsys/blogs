@@ -4,7 +4,7 @@
   <title>AAltSys</title>
   <link href="http://aaltsys.github.com/blogs/atom.xml" rel="self"/>
   <link href="http://aaltsys.github.com/blogs/"/>
-  <updated>2011-10-07T14:02:27-05:00</updated>
+  <updated>2011-10-12T10:56:34-05:00</updated>
   <id>http://aaltsys.github.com/blogs/</id>
   <author>
     <name>AAltSys</name>
@@ -17,7 +17,12 @@
     <link href="http://aaltsys.github.com/blogs/blog/2010/05/13/guerilla-marketing/"/>
     <updated>2010-05-13T13:17:00-05:00</updated>
     <id>http://aaltsys.github.com/blogs/blog/2010/05/13/guerilla-marketing</id>
-    <content type="html">&lt;p&gt;One of my favorite guerrilla marketing ideas is affinity search indexing.  In this concept, an item is posted to a forum such as YouTube, where the index words of the item match popular, but possibly unrelated, search terms. There are various ways to use this idea, and a new one came to my attention.  A fired marketing executive took out Google AdWords ads offering his services, and he indexed his ad search terms by the names of the six ad executives he most admired. You might as well not try this job search method today, though.  In &lt;em&gt;Management of the Absurd&lt;/em&gt;, Richard Farson says: “Once you find a management technique that works, give it up.” His point is that effectiveness is directly proportional to novelty. Once a management technique is converted into a practice and institutionalized, you can bet it will accomplish nothing. Popular management techniques which depend on rules for improving performance are doomed to fail.&lt;/p&gt;
+    <content type="html">&lt;p&gt;One of my favorite guerrilla marketing ideas is affinity search indexing.  In this concept, an item is posted to a forum such as YouTube, where the index words of the item match popular, but possibly unrelated, search terms. There are various ways to use this idea, and a new one came to my attention.  A fired marketing executive took out Google AdWords ads offering his services, and he indexed his ad search terms by the names of the six ad executives he most admired. You might as well not try this job search method today, though.&lt;/p&gt;
+
+&lt;!&#8211;more&#8211;&gt;
+
+
+&lt;p&gt;In &lt;em&gt;Management of the Absurd&lt;/em&gt;, Richard Farson says: “Once you find a management technique that works, give it up.” His point is that effectiveness is directly proportional to novelty. Once a management technique is converted into a practice and institutionalized, you can bet it will accomplish nothing. Popular management techniques which depend on rules for improving performance are doomed to fail.&lt;/p&gt;
 
 &lt;p&gt;Back to marketing. The successful marketer must innovate constantly, providing a stream of presentations that surprise the audience intellectually. This is how comedy works also, and comedians may make good marketers. Comic strip writers are masters of this intellectual engagement and novelty.  I have been working on a project to integrate marketing sponsorships with comic strip authorship, to take advantage of the originality inherent in this medium. I think this will work, because the supply of comic artists and writers is strictly limited. Unlike AdWords, not everybody can publish a comic strip. This should help keep the sponsored comic content concept fresh for a while, even on the Internet.&lt;/p&gt;
 
@@ -31,6 +36,9 @@
     <updated>2010-03-21T13:16:00-05:00</updated>
     <id>http://aaltsys.github.com/blogs/blog/2010/03/21/switching-to-google-apps</id>
     <content type="html">&lt;p&gt;Using Free, Open-Source Solutions (FOSS) is a basic value for AAltSys. Our AAltSys Server provides an advanced office server design using only FOSS, for example. However, converting an office to FOSS requires changing user applications as well. There are three areas of concern here. The first concern, personal productivity, is handled quite well with Sun/Oracle’s OpenOffice suite. The next issue is collaboration, where Microsoft dominates the market with Exchange and Active Directory. The final frontier for companies is accounting, but I will save that topic for a future post. Today’s topic is collaboration software.&lt;/p&gt;
+
+&lt;!&#8211;more&#8211;&gt;
+
 
 &lt;p&gt;Originally corporate email was restricted to within an organization’s walls, because that was as far as the mainframe reached. Today email, calendars and documents are commonly shared between organizations and across national boundaries. This sort of collaboration cannot work using proprietary software designs and local implementations. Instead, email, calendars, and documents  must be encoded in formats readable by all software. The recognized standards here are IMAP for email, ICAL for calendars, and OpenDoc for documents. Microsoft’s office products fail to provide compatibility with any of these standards.&lt;/p&gt;
 
@@ -55,6 +63,9 @@ These demands are a tall order, and virtually every system we tried failed on nu
     <updated>2010-03-19T13:14:00-05:00</updated>
     <id>http://aaltsys.github.com/blogs/blog/2010/03/19/a-faster-internet</id>
     <content type="html">&lt;p&gt;Twenty years ago there was barely an Internet, and ten years ago most Internet connections used dial-up modems. Today, everyone expects to have high-speed broadband connection to the Internet. Or do they? In many developed countries users have broadband connection rates of 10 Mbit/sec, while U.S. users typically experience sustained  cable connection speeds of 1.5 Mbs and DSL speeds less than 374 Kbs. In other words, Internet access is well below average in the U.S.&lt;/p&gt;
+
+&lt;!&#8211;more&#8211;&gt;
+
 
 &lt;p&gt;To see why this is true, we have to go back a few years. In the decade of the 90s, each telecommunications company developed infrastructure to gain a competitive edge. This all changed with the Telecommunications Act of 2001, which authorized many of the anticompetitive practices we see today. Telcos stopped investing to gain customers, and consolidated instead. While AT&amp;amp;T was emerging from bankruptcy they bought my provider, Bell South, for example. Service guarantees disappeared, while contracts and terms could be changed at the whim of the telco, without notice to the customer. (A similar thing happened in banking, resulting in the mortgage and credit card fiascos today.)&lt;/p&gt;
 
@@ -101,6 +112,9 @@ At my work they’ve decreased our limits on data storage and e-mail account cap
 
 &lt;p&gt;I really do leave the basement on occasion, despite what others say. Walking outside yesterday, I noticed a bird on the telephone wire and immediately thought, “mourning dove.” I recognized the bird from its characteristic silhouette, not its color or other features. The brain works by recognizing familiar characteristics: a silhouette, a movement, a color, a footstep, a sound. Camouflage works because it hides the unusual amongst the familiar. We are used to seeing leaf litter, and we are unfamiliar with the coils of the lurking python.&lt;/p&gt;
 
+&lt;!&#8211;more&#8211;&gt;
+
+
 &lt;p&gt;2) The graphical user interface.&lt;/p&gt;
 
 &lt;p&gt;The graphical user interface presents the user with a clutter of icons, ribbons, tool bars, and other detritus. Finding a familiar icon amongst all this is not too bad, but identifying an unfamiliar icon for a desired function within this collection of other unfamiliar objects is impossible. Most users struggle to familiarize themselves with the graphical elements which are common to all windows — the title bar, the scroll bars, resizing indicators, and so forth. The graphical stuff within the frame, that which changes from window to window, is a complete mystery to the average user.&lt;/p&gt;
@@ -132,6 +146,9 @@ At my work they’ve decreased our limits on data storage and e-mail account cap
 
 &lt;p&gt;It’s not. The Real Work is not formatting the margins, installing the printer driver, uploading the document, finishing the PowerPoint slides, running the software update or reinstalling the OS.&lt;/p&gt;
 
+&lt;!&#8211;more&#8211;&gt;
+
+
 &lt;p&gt;The Real Work is teaching the child, healing the patient, selling the house, logging the road defects, fixing the car at the roadside, capturing the table’s order, designing the house and organising the party.&lt;/p&gt;
 
 &lt;p&gt;Think of the millions of hours of human effort spent on preventing and recovering from the problems caused by completely open computer systems. Think of the lengths that people have gone to in order to acquire skills that are orthogonal to their core interests and their job, just so they can get their job done.”&lt;/p&gt;
@@ -151,9 +168,12 @@ At my work they’ve decreased our limits on data storage and e-mail account cap
     <link href="http://aaltsys.github.com/blogs/blog/2010/01/12/efficiency-expertise/"/>
     <updated>2010-01-12T12:56:00-06:00</updated>
     <id>http://aaltsys.github.com/blogs/blog/2010/01/12/efficiency-expertise</id>
-    <content type="html">&lt;p&gt;I mentioned patient care efficiency issues to a doctor, and he pointed out how regulatory reform could play a huge part in fixing this problem. But then he went on to say that the hospital system had hired the best possible consultants — from the aeronautics industry, no less — to identify improvements in efficiency.&lt;/p&gt;
+    <content type="html">&lt;p&gt;I mentioned patient care efficiency issues to a doctor, and he pointed out how regulatory reform could play a huge part in fixing this problem. But then he went on to say that the hospital system had hired the best possible consultants — from the aeronautics industry, no less — to identify improvements in efficiency. I was unable to reply, since I know about aeronautics.&lt;/p&gt;
 
-&lt;p&gt;I was unable to reply, since I know about aeronautics. Back in WWII, my mother was hired as a bucker on the B17 line, which gave her the income necessary to move her brood of four out of the converted chicken coop they lived in during the depression. Boeing hired women as buckers, and paid them less than the male riveters, because women could crawl into tight spaces in the fuselage. In Marietta Georgia, Duke Wolff solved this problem for Lockheed by hiring dwarfs. Boeing engineers for the B17 designed a standard set of bucking bars to fit all riveting positions in the airframe. A worker who specialized in the tail sections re-manufactured his bars. Consequently, he outperformed the production flow, and gained a little free time. The foreman asked him to sweep the floor, since he wasn’t busy, but he locked his toolbox and went home for three days instead. The production line halted until he returned.&lt;/p&gt;
+&lt;!&#8211;more&#8211;&gt;
+
+
+&lt;p&gt;Back in WWII, my mother was hired as a bucker on the B17 line, which gave her the income necessary to move her brood of four out of the converted chicken coop they lived in during the depression. Boeing hired women as buckers, and paid them less than the male riveters, because women could crawl into tight spaces in the fuselage. In Marietta Georgia, Duke Wolff solved this problem for Lockheed by hiring dwarfs. Boeing engineers for the B17 designed a standard set of bucking bars to fit all riveting positions in the airframe. A worker who specialized in the tail sections re-manufactured his bars. Consequently, he outperformed the production flow, and gained a little free time. The foreman asked him to sweep the floor, since he wasn’t busy, but he locked his toolbox and went home for three days instead. The production line halted until he returned.&lt;/p&gt;
 
 &lt;p&gt;At the end of the war, my mother found a new husband with a military pension, and a disability to match. This move was smart and necessary, as the aircraft manufacturers kept the higher-cost men on the line while firing women, dwarfs, and the guy bucking in the tail assemblies. Efficiency was no longer important. Defense contractors were on cost-plus contracts, and the time pressure of a war was gone. Instead, aircraft manufacturing upscaled into aeronautics by concentrating on technology and the occasional bribery scandal. Okay, regular &lt;a href=&quot;http://en.wikipedia.org/wiki/Lockheed_bribery_scandals&quot;&gt;bribery scandals&lt;/a&gt;. And &lt;a href=&quot;http://en.wikipedia.org/wiki/Boeing#Unethical_conduct&quot;&gt;more controversies&lt;/a&gt;. So how efficient is the aeronautical industry today? Boeing’s &lt;a href=&quot;http://en.wikipedia.org/wiki/Boeing_787&quot;&gt;787 Dreamliner&lt;/a&gt; achieved first flight on December 15, 2009, more than two years behind schedule.&lt;/p&gt;
 
@@ -167,6 +187,9 @@ At my work they’ve decreased our limits on data storage and e-mail account cap
     <updated>2009-12-09T12:52:00-06:00</updated>
     <id>http://aaltsys.github.com/blogs/blog/2009/12/09/aggregating-technology-news</id>
     <content type="html">&lt;p&gt;When I was studying Mathematics, in the early 70s, an instructor commented that far more Mathematics was published every year than any one person could read. While too much of a good thing is a waste, probably back then only a small portion of the published material was truly important to the progress of Mathematics.&lt;/p&gt;
+
+&lt;!&#8211;more&#8211;&gt;
+
 
 &lt;p&gt;Today technologists are faced with the same conundrum. During the past month, I have wasted a couple of hours each day reading technology news. (This partly explains my lack of blog posts in the interval.)  I am using aggregation sites to match articles to my interests, but I still see many articles which are not even worth a skim. What I really want is a program like Google Reader, but which analyzes how much time I spend on an article compared to the article’s length. Then the program should search for additional articles which I will actually read, as opposed to skimming or skipping. But here lies a fallacy. I wish to be informed about new technologies which are important (to me). Obviously, articles about what I have already read cannot deliver novel information about technology. So, I will continue to skim and skip through technology aggregations, looking for new and important information.&lt;/p&gt;
 
@@ -191,6 +214,9 @@ At my work they’ve decreased our limits on data storage and e-mail account cap
     <id>http://aaltsys.github.com/blogs/blog/2009/11/11/one-minute-escalator-ride</id>
     <content type="html">&lt;p&gt;Running a technology company involves a little more than just having aggrandizing fantasies about our own efforts, while spewing paranoid rants on how our established competitors behave.  Occasionally I have to focus on the job at hand, getting a company running.&lt;/p&gt;
 
+&lt;!&#8211;more&#8211;&gt;
+
+
 &lt;p&gt;As part of this effort, AAltSys staffers have been attending entrepreneurship workshops run by &lt;a href=&quot;http://www.launchmemphis.com/&quot;&gt;LaunchMemphis&lt;/a&gt;. A recent workshop was on creating an escalator pitch for our business idea, which we were required to package into a one-minute YouTube video. My 12-year-old daughter has posted numerous YouTube videos, and some were good, so it can’t be that hard, right? Here are some of the lessons learned from this exercise.&lt;/p&gt;
 
 &lt;p&gt;Identify an intended audience. Generally, pitch to prospects. If you can’t convince a prospect of your importance to him, you won’t convince a banker or an investor of your value.
@@ -212,6 +238,9 @@ My best revelation from this workshop was, that I actually can explain why someo
 
 &lt;p&gt;After thirty years of hearing my mother talk on the phone, I am not a phone phan. But when Apple Computer introduced the iPhone, I ran straight out to buy one … NOT!&lt;/p&gt;
 
+&lt;!&#8211;more&#8211;&gt;
+
+
 &lt;p&gt;I want a whole lot more from a hand-held device. I want it to deliver my mail, maintain my correspondence, synchronize my contacts, update my calendar, plan my shopping lists, track my personal and business finances …. In short, I want my hand-held assistant to do everything my server-connected desktop can, and then some. This is where the Android name makes sense. Google started with server farms, added distributed applications, and now offers robotic personal assistants. But these Androids will always be extensions of Google’s network infrastructure, not autonomous computers.&lt;/p&gt;
 
 &lt;p&gt;Google is extending a network into personal services, while Apple and Microsoft are connecting personal computers to form a network. Products from Microsoft and Apple are premised on improving personal productivity, while Google wants to influence hive behavior. Apple gives us &lt;a href=&quot;http://www.apple.com/itunes/&quot;&gt;a music store&lt;/a&gt; and &lt;a href=&quot;http://www.att.com/wireless/iphone/&quot;&gt;AT&amp;amp;T phone service&lt;/a&gt;. Microsoft gives us &lt;a href=&quot;http://www.microsoft.com/presspass/press/2009/oct09/10-15Sidekick.mspx&quot;&gt;Sidekick&lt;/a&gt; … oh, wait! That was a server-based service, wasn’t it? Well then, how about &lt;a href=&quot;http://www.microsoft.com/windowsmobile/en-us/meet/wm65-upgrade.mspx&quot;&gt;WinCE&lt;/a&gt;? Google brings us voice and text communication, collaboration technology, group productivity. Now my Android will keep you updated on how this serves us.&lt;/p&gt;
@@ -224,6 +253,9 @@ My best revelation from this workshop was, that I actually can explain why someo
     <updated>2009-10-02T12:43:00-05:00</updated>
     <id>http://aaltsys.github.com/blogs/blog/2009/10/02/marketing-to-the-customer</id>
     <content type="html">&lt;p&gt;In 1997, IBM was losing the battle to get computer manufacturers to preinstall  OS/2. While Win ‘95 was clearly inferior to OS/2, manufacturers offered Microsoft’s product instead of IBM’s. The reasons for this market rejection were 3-fold. First, Microsoft contracts required manufacturers to purchase a Windows copy for every machine they made. Second, Microsoft engaged in a FUD campaign suggesting that non-Microsoft solutions were risky. Third, OS/2 was an extra expense which few customers were willing to pay.&lt;/p&gt;
+
+&lt;!&#8211;more&#8211;&gt;
+
 
 &lt;p&gt;In the face of Microsoft’s wildly successful product distribution methods, IBM sent out teams of evangelists to convince consumers to choose OS/2. In other words, Microsoft targeted computer manufacturers as their real customers, while IBM targeted consumers. It did not help that IBM’s CEO was the former head of Nabisco, so of course he believed in direct consumer marketing.&lt;/p&gt;
 
@@ -241,6 +273,9 @@ My best revelation from this workshop was, that I actually can explain why someo
     <updated>2009-09-23T12:36:00-05:00</updated>
     <id>http://aaltsys.github.com/blogs/blog/2009/09/23/open-source-business-strategy</id>
     <content type="html">&lt;p&gt;Does open source make sense as a business strategy for product development? Here is how an engineer might look at this question. Products have a life cycle in four phases: introduction, growth, maturity, and obsolescence. Traditionally, the highest cost for a product should come in the introduction phase. Then efficiency of manufacture and marketing effectiveness kick in to reduce costs and increase profitability. Businesses try to avoid investing in mature products, so that the gap between sales and cost, that is, profit, can be maximized.&lt;/p&gt;
+
+&lt;!&#8211;more&#8211;&gt;
+
 
 &lt;p&gt;Proprietary technological products require continued investment to keep ahead of the competition. As products become more complex, the cost of support and development increase over time, reducing profit. Increasing costs force companies to increase prices, which is why MS-DOS sold for $35, while Windows 7 costs $350. By comparison, the iPhone costs much less today than when it was introduced, since it experiences high sales growth and reduced manufacturing costs. Apple will replace this product when a more profitable alternative has been developed, long before price and sales erosion leads to obsolescence.&lt;/p&gt;
 
@@ -262,6 +297,9 @@ My best revelation from this workshop was, that I actually can explain why someo
     <updated>2009-09-22T12:20:00-05:00</updated>
     <id>http://aaltsys.github.com/blogs/blog/2009/09/22/marketing-in-social-media</id>
     <content type="html">&lt;p&gt;The WorldWide Web used to be a great big brochure, with millions of static pages linked together.  Next there was web 2.0, where web sites were dynamic and responded to the user.  Now, we are talking about social media.  So how does social media differ from what went before, and how does this affect us?&lt;/p&gt;
+
+&lt;!&#8211;more&#8211;&gt;
+
 
 &lt;p&gt;First, some comments about marketing.  Marketing has difficulty getting a grip on the Internet and the worldwide web, although the purpose of marketing, to persuade an audience, is independent of the vehicle or medium used.  Marketing consists of the following steps:&lt;/p&gt;
 
