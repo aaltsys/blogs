@@ -7,6 +7,7 @@ categories:
 author: Gerald Lovel
 ---
 Using Free, Open-Source Solutions (FOSS) is a basic value for AAltSys. Our AAltSys Server provides an advanced office server design using only FOSS, for example. However, converting an office to FOSS requires changing user applications as well. There are three areas of concern here. The first concern, personal productivity, is handled quite well with Sun/Oracle’s OpenOffice suite. The next issue is collaboration, where Microsoft dominates the market with Exchange and Active Directory. The final frontier for companies is accounting, but I will save that topic for a future post. Today’s topic is collaboration software.
+<!--more-->
 
 Originally corporate email was restricted to within an organization’s walls, because that was as far as the mainframe reached. Today email, calendars and documents are commonly shared between organizations and across national boundaries. This sort of collaboration cannot work using proprietary software designs and local implementations. Instead, email, calendars, and documents  must be encoded in formats readable by all software. The recognized standards here are IMAP for email, ICAL for calendars, and OpenDoc for documents. Microsoft’s office products fail to provide compatibility with any of these standards.
 

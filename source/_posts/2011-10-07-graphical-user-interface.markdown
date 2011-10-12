@@ -9,6 +9,7 @@ author: Gerald Lovel
 1) How recognition works.
 
 I really do leave the basement on occasion, despite what others say. Walking outside yesterday, I noticed a bird on the telephone wire and immediately thought, “mourning dove.” I recognized the bird from its characteristic silhouette, not its color or other features. The brain works by recognizing familiar characteristics: a silhouette, a movement, a color, a footstep, a sound. Camouflage works because it hides the unusual amongst the familiar. We are used to seeing leaf litter, and we are unfamiliar with the coils of the lurking python.
+<!--more-->
 
 2) The graphical user interface.
 

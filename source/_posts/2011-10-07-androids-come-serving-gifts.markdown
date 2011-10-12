@@ -9,6 +9,7 @@ author: Gerald Lovel
 The [Androids](http://code.google.com/android/#utm_campaign=en&utm_source=en-ha-na-us-bk&utm_medium=ha&utm_term=android) are coming; how will they serve us?
 
 After thirty years of hearing my mother talk on the phone, I am not a phone phan. But when Apple Computer introduced the iPhone, I ran straight out to buy one … NOT!
+<!--more-->
 
 I want a whole lot more from a hand-held device. I want it to deliver my mail, maintain my correspondence, synchronize my contacts, update my calendar, plan my shopping lists, track my personal and business finances …. In short, I want my hand-held assistant to do everything my server-connected desktop can, and then some. This is where the Android name makes sense. Google started with server farms, added distributed applications, and now offers robotic personal assistants. But these Androids will always be extensions of Google’s network infrastructure, not autonomous computers.
 

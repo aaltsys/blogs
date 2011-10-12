@@ -7,6 +7,7 @@ categories:
 author: Gerald Lovel
 ---
 In 1997, IBM was losing the battle to get computer manufacturers to preinstall  OS/2. While Win ‘95 was clearly inferior to OS/2, manufacturers offered Microsoft’s product instead of IBM’s. The reasons for this market rejection were 3-fold. First, Microsoft contracts required manufacturers to purchase a Windows copy for every machine they made. Second, Microsoft engaged in a FUD campaign suggesting that non-Microsoft solutions were risky. Third, OS/2 was an extra expense which few customers were willing to pay.
+<!--more-->
 
 In the face of Microsoft’s wildly successful product distribution methods, IBM sent out teams of evangelists to convince consumers to choose OS/2. In other words, Microsoft targeted computer manufacturers as their real customers, while IBM targeted consumers. It did not help that IBM’s CEO was the former head of Nabisco, so of course he believed in direct consumer marketing.
 

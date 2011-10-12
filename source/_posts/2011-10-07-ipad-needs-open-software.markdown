@@ -11,6 +11,7 @@ There are writers who express my opinions better than I ever could my self. An e
 “Many will cling to … the idea that the computer-based part of [a job] is the “real work”.
 
 It’s not. The Real Work is not formatting the margins, installing the printer driver, uploading the document, finishing the PowerPoint slides, running the software update or reinstalling the OS.
+<!--more-->
 
 The Real Work is teaching the child, healing the patient, selling the house, logging the road defects, fixing the car at the roadside, capturing the table’s order, designing the house and organising the party.
 

@@ -7,6 +7,7 @@ categories:
 author: Gerald Lovel
 ---
 The WorldWide Web used to be a great big brochure, with millions of static pages linked together.  Next there was web 2.0, where web sites were dynamic and responded to the user.  Now, we are talking about social media.  So how does social media differ from what went before, and how does this affect us?
+<!--more-->
 
 First, some comments about marketing.  Marketing has difficulty getting a grip on the Internet and the worldwide web, although the purpose of marketing, to persuade an audience, is independent of the vehicle or medium used.  Marketing consists of the following steps:
 

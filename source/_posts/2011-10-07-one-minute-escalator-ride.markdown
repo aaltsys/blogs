@@ -7,6 +7,7 @@ categories:
 author: Gerald Lovel
 ---
 Running a technology company involves a little more than just having aggrandizing fantasies about our own efforts, while spewing paranoid rants on how our established competitors behave.  Occasionally I have to focus on the job at hand, getting a company running.
+<!--more-->
 
 As part of this effort, AAltSys staffers have been attending entrepreneurship workshops run by [LaunchMemphis](http://www.launchmemphis.com/). A recent workshop was on creating an escalator pitch for our business idea, which we were required to package into a one-minute YouTube video. My 12-year-old daughter has posted numerous YouTube videos, and some were good, so it can’t be that hard, right? Here are some of the lessons learned from this exercise.
 

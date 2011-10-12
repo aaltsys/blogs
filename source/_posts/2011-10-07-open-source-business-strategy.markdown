@@ -7,6 +7,7 @@ categories:
 author: Gerald Lovel
 ---
 Does open source make sense as a business strategy for product development? Here is how an engineer might look at this question. Products have a life cycle in four phases: introduction, growth, maturity, and obsolescence. Traditionally, the highest cost for a product should come in the introduction phase. Then efficiency of manufacture and marketing effectiveness kick in to reduce costs and increase profitability. Businesses try to avoid investing in mature products, so that the gap between sales and cost, that is, profit, can be maximized.
+<!--more-->
 
 Proprietary technological products require continued investment to keep ahead of the competition. As products become more complex, the cost of support and development increase over time, reducing profit. Increasing costs force companies to increase prices, which is why MS-DOS sold for $35, while Windows 7 costs $350. By comparison, the iPhone costs much less today than when it was introduced, since it experiences high sales growth and reduced manufacturing costs. Apple will replace this product when a more profitable alternative has been developed, long before price and sales erosion leads to obsolescence.
 
